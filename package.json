@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "cli-progress": "^3.12.0",
+    "sanitize-filename": "^1.6.3",
     "ytdl-core": "^4.11.5",
     "ytpl": "^2.3.0"
   },
